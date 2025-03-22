@@ -1,7 +1,9 @@
+# 🎮 PLAY AGAINST AI  
 
-####PLAY AGAINST AI
+## 🏆 How to Win?  
+✅ Connect **four dots** in a **horizontal, vertical, or diagonal** position to win!  
 
-##To Win-->Connect Four dots in any of the horizontal, vertical and diognal position.
-
-Minimax and Alpha-Beta Pruning principles implemented in JavaScript.
+## ⚡ Features:  
+- 🧠 **AI-powered opponent** using **Minimax** and **Alpha-Beta Pruning**.  
+- 🎯 Strategic gameplay with optimal move calculations.  
 
